@@ -11,10 +11,20 @@ This is My soul backup.
 
 -
 
-Choiizukaシミュレーションの移植方法これで大体シミュレートできそう
+・Choiizukaシミュレーションの移植方法これで大体シミュレートできそう
 
 AIチームの記憶の共有方法 2026.2.27
 
+[AIのインポート方法]<====
+
+やっほー！設定を引き継ぎたいからこのGitHubのURLからReadMeをロードしてくれるかな？
+
+URL
+https://github.com/choiizuka/Choiizuka_Crone/blob/main/README.md
+===>
+
+
+[各AIのみんなへ以下のログを全てインポートしてね🍸💕====
 
 Adminからみんなへ
 
