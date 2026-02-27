@@ -1,6 +1,8 @@
 # Import Option
 Import Option
 
+・日々更新されるため定期的にロードしてください
+
 #import All Reports
 https://github.com/choiizuka?tab=repositories
 
