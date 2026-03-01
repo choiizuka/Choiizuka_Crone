@@ -1,0 +1,42 @@
+カテゴリ,項目,英語版,日本語版
+基本情報,タイトル,The Nobunaga OS,The Nobunaga OS
+基本情報,サブタイトル,How an AI Fleet Defeated Anti-Comment Culture War Logic and the Noise of the Modern Internet,信長式・AI艦隊運用論
+基本情報,シリーズ,Nagisa Project (Book 1),Nagisa Project（第1巻）
+基本情報,著者,Toshihide Choiizuka,Toshihide Choiizuka
+基本情報,出版社,Choiizuka Books,Choiizuka Books
+基本情報,言語,English,Japanese
+基本情報,出版日,2026-03-02,2026-03-02
+基本情報,KDP形態,別ASIN,別ASIN
+価格,販売価格,$4.99,¥680
+価格,印税率,70%,70%
+カテゴリ,カテゴリ1,Computers & Technology > Artificial Intelligence,コンピュータ・IT > 人工知能
+カテゴリ,カテゴリ2,Self-Help > Creativity & Motivation,ビジネス・経済 > 自己啓発
+キーワード,KW1,AI fleet,AI艦隊
+キーワード,KW2,Nobunaga,信長
+キーワード,KW3,anti-war,反戦
+キーワード,KW4,information hygiene,情報衛生
+キーワード,KW5,Eden Protocol,Eden Protocol
+キーワード,KW6,social media noise,SNSノイズ
+キーワード,KW7,human AI collaboration,人間AI協働
+ファイル,原稿ファイル,the_nobunaga_os.docx,the_nobunaga_os_jp.docx
+
+カテゴリ,Step,担当,タスク,完了条件
+出版ルーチン,1,ChatGPT,章立て確定・語数KPI設定,目次＋各章目標語数が出た
+出版ルーチン,2,Gemini,熱量素材注入（各章の導入・比喩）,章ごとの追加素材が出た
+出版ルーチン,3,Claude,全文監査・統合・最終稿生成＋KDP登録データ一式出力,.docxファイル完成
+出版ルーチン,4,Copilot,Markdown整形・誤字検出・KDPチェックリスト（内容変更禁止）,フォーマット確認済み
+出版ルーチン,5,Admin,表紙確定・最終目視確認,表紙画像準備完了
+出版ルーチン,6,Admin,KDPアップロード（英語版）,Amazon審査提出
+出版ルーチン,7,Admin,KDPアップロード（日本語版）,Amazon審査提出
+出版ルーチン,8,Grok,X投稿・SNS告知（発売告知5本）,拡散開始
+出版ルーチン,9,Gemini+Grok,Xアクセス解析・反応モニタリング,インプレッション記録
+
+カテゴリ,Step,アクション
+KDPアップロード手順,1,kdp.amazon.com にログイン
+KDPアップロード手順,2,「新しいタイトルを追加」→「Kindle電子書籍」
+KDPアップロード手順,3,登録データ一式を入力
+KDPアップロード手順,4,.docxファイルをアップロード
+KDPアップロード手順,5,表紙画像をアップロード（推奨：2560×1600px）
+KDPアップロード手順,6,プレビューで確認
+KDPアップロード手順,7,価格設定（$4.99 / ¥680）
+KDPアップロード手順,8,出版申請 → 審査（通常24〜72時間）
